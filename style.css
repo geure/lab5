@@ -53,12 +53,12 @@ img:hover {
 }
 
 .column1 {
-padding: .2em .5em .2em .5em;
+  padding: .2em .5em .2em .5em;
 }
 
 .column2 {
-width: 18%;
-padding: .2em .5em .2em .5em;
+  width: 18%;
+  padding: .2em .5em .2em .5em;
 }
 
 #row-heading {
@@ -73,7 +73,7 @@ padding: .2em .5em .2em .5em;
 }
 
 .row:hover {
- background-color: #d6e0ff;
+  background-color: #d6e0ff;
 }
 
 .row {
