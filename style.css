@@ -34,8 +34,12 @@ img {
   left: -3.5em;
 }
 
+#earth {
+  width: 104%;
+  left: -3.9em;
+}
+
 #saturn {
-  position: relative;
   width: 170%;
   left: -6em;
 }
