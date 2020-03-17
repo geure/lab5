@@ -1,0 +1,85 @@
+#page {
+  width: 960px;
+  margin: 0 auto;
+  font-family: 'Karla', sans-serif;
+  background: url("images/stars.jpg");
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+  background-color: #464646;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+h1 {
+  text-align: center;
+  color: #f5f7ff;
+  font-weight: 600;
+}
+
+h3 {
+  margin: 0;
+  padding-top: .2em;
+  padding-bottom: .2em;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  position: relative;
+  left: -3.5em;
+}
+
+.saturn {
+  position: relative;
+  width: 170%;
+  left: -6em;
+}
+
+img:hover {
+  -webkit-transform: scale(1.25); 
+  -moz-transform: scale(1.25); 
+  -webkit-transition: 
+  -webkit-transform .15s linear; 
+  z-index: 1;
+}
+
+#column1 {
+padding: .2em .5em .2em .5em;
+}
+
+#column2 {
+width: 18%;
+padding: .2em .5em .2em .5em;
+}
+
+#row-heading {
+  background: #b9c9fe;
+  opacity: .8;
+  border-bottom: .0625em;
+  border-top: transparent;
+  border-bottom-color: #fff;
+  box-sizing: border-box;
+  border-bottom-style: solid;
+  color: #039;
+}
+
+.row:hover {
+ background-color: #d6e0ff;
+}
+
+.row {
+  padding: .5em;
+  background: #e8edff;
+  opacity: .8;
+  border-bottom: .0625em;
+  border-top: transparent;
+  border-bottom-color: #fff;
+  box-sizing: border-box;
+  border-bottom-style: solid;
+  color: #039;
+}
