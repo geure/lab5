@@ -1,5 +1,6 @@
 #page {
-  width: 960px;
+  max-width: 960px;
+
   margin: 0 auto;
   font-family: 'Karla', sans-serif;
   background: url("images/stars.jpg");
