@@ -34,7 +34,7 @@ img {
   left: -3.5em;
 }
 
-.saturn {
+#saturn {
   position: relative;
   width: 170%;
   left: -6em;
@@ -48,11 +48,11 @@ img:hover {
   z-index: 1;
 }
 
-#column1 {
+.column1 {
 padding: .2em .5em .2em .5em;
 }
 
-#column2 {
+.column2 {
 width: 18%;
 padding: .2em .5em .2em .5em;
 }
